@@ -1,2 +1,4 @@
-import chart_studio.tools as tls
-tls.get_embed('http://kyoung74.github.io/PlotlyPlots')
+{% include InteractiveCorMatAll.html %}
+{% include InteractiveCorMatHEYA8.html %}
+{% include InteractiveCorMatHEY.html %}
+{% include InteractiveCorMatOVCAR3.html %}
