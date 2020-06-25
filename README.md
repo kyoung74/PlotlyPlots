@@ -1,4 +1,4 @@
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://kyoung74.github.io/PlotlyPlots/InteractiveCorMatAll.html" height="1000" width="1000"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://kyoung74.github.io/PlotlyPlots/InteractiveCorMatAll.html" height="700" width="700"></iframe>
 
 ## Welcome to GitHub Pages
 
